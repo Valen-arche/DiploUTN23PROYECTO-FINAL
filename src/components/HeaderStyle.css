@@ -1,0 +1,19 @@
+.HeaderStyle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(190, 93, 29);
+    width: 100vw;
+
+}
+.HeaderStyle:hover {
+    background-color: #ffffff;
+  }
+  
+
+  .main{
+    font-size: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+ 

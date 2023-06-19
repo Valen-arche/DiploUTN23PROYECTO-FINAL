@@ -1,0 +1,32 @@
+.Nav{
+  list-style: none;
+  width: 100%;
+}
+
+.Nav ul{
+  margin: auto;
+    list-style: none;
+    text-decoration: none;
+  display: flex;
+  flex-direction: row;
+ justify-content: space-between;
+ min-width: fit-content;
+  }
+ 
+  .Nav li a{
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: row;
+  min-width: fit-content;
+  gap: 10px;
+
+}
+
+.Nav li a i {
+  margin: auto;
+}
+
+.bi-yin-yang:hover {
+  color: aqua;
+}

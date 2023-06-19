@@ -1,0 +1,22 @@
+.App{
+  text-align: center;
+  background: rgb(97,195,215);
+  background: linear-gradient(0deg, rgba(97,195,215,1) 0%, rgba(183,187,255,1) 77%);
+  
+  font-family:serif;
+  font-size: 100%;
+  size-adjust: auto;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+
+body {
+  background-color: blue;
+  color: blue;
+  font-size: 18px;
+}
